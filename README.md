@@ -2,6 +2,18 @@
     <img width="250px" src="https://ik.imagekit.io/fornielis/GITHUB/logo_uAt8h-98v.svg?updatedAt=1636989691742"/>
 </h1>
 
+<p>
+Comecei como designer em 2005 e era a profissão que amava. </br>
+Até que, em 2018 conheci o mundo de desenvolvimento WEB e me encontrei nele. O mais legal é tudo o que já havia aprendido como design podia ser utilizada nesse novo mundo, desde então não parei mais de estudar.</br>
+Meu objetivo é ser Full Stack Developer. 
+</br><b>Só depende de mim!</b>
+</p>
+
+<h4 align="center">
+    <img width="250px" src="https://ik.imagekit.io/fornielis/GITHUB/loader_2mxJMihO2S.gif?updatedAt=1636989218114"/></br>
+    <p>caregando SKILLS</p>
+</h4>
+
 ## SKILLS
 ### Front End
 <div style="display: inline_block">
