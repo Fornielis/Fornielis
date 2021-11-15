@@ -38,7 +38,7 @@
   <a href="mailto:wilson@fornielis.com" target="_blanck">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:wilson@fornielis.com" target="_blanck">
+  <a href="https://api.whatsapp.com/send?phone=11940734240" target="_blanck">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
