@@ -4,7 +4,7 @@
 
 <p>
 Comecei como designer em 2005 e era a profissão que amava. </br>
-Até que, em 2018 conheci o mundo de desenvolvimento WEB e me encontrei nele. O mais legal é tudo o que já havia aprendido como design podia ser utilizada nesse novo mundo, desde então não parei mais de estudar.</br>
+Até que, em 2013 conheci o mundo de desenvolvimento WEB e me encontrei nele. O mais legal é tudo o que já havia aprendido como design podia ser utilizada nesse novo mundo, desde então não parei mais de estudar.</br>
 Meu objetivo é ser Full Stack Developer. 
 </br><b>Só depende de mim!</b>
 </p>
