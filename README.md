@@ -4,7 +4,7 @@
 
 <p>
 Comecei como designer em 2005 e era a profissão que amava. </br>
-Até que, em 2013 conheci o mundo de desenvolvimento WEB e me encontrei nele. O mais legal é tudo o que já havia aprendido como design podia ser utilizada nesse novo mundo, desde então não parei mais de estudar.</br>
+Até que, em 2013 conheci o mundo de desenvolvimento WEB e me encontrei nele. O mais legal é tudo o que já havia aprendido como design pode ser utilizado nesse novo mundo, desde então não parei mais de estudar.</br>
 Meu objetivo é ser Full Stack Developer. 
 </br><b>Só depende de mim!</b>
 </p>
@@ -22,7 +22,6 @@ Meu objetivo é ser Full Stack Developer.
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 </div>
 
 ### Back End
